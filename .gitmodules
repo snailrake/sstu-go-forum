@@ -1,0 +1,9 @@
+[submodule "sstu-go-forum-frontend"]
+	path = sstu-go-forum-frontend
+	url = https://github.com/snailrake/sstu-go-forum-frontend.git
+[submodule "sstu-go-forum-main-service"]
+	path = sstu-go-forum-main-service
+	url = https://github.com/snailrake/sstu-go-forum-main-service.git
+[submodule "sstu-go-forum-auth-service"]
+	path = sstu-go-forum-auth-service
+	url = https://github.com/snailrake/sstu-go-forum-auth-service.git
